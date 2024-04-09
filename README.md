@@ -48,7 +48,7 @@ Demo Video (Via YouTube) : https://youtu.be/tPVpVa7zk_k
 -------------------------------------
 ## OTHER INFORMATION
 
-The program was developed by a team of programmers, with Quilino serving as the group developer and leader. Other group members involved in the project include Caberte, Buenaventura, Dagatan, Trero, Buendia, and Chavez. The program was created as part of a project or assignment for a course, likely related to computer programming or software engineering.
+The program was developed by a team of programmers, with Quilino serving as the group developer and leader. Other group members involved in the project include Caberte, Buenaventura, Dagatan, Trero, and Chavez. The program was created as part of a project or assignment for a course, likely related to computer programming or software engineering.
 
 The program includes features such as sound effects and ASCII art to enhance the user experience.
 Administrative access is available for performing tasks such as shutting down the system or showing group member information.
